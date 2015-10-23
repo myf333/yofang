@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_grey">#a9b2bf</color>
+    <color name="text_grey_a">#aaaaaa</color>
+    <color name="text_grey_b">#bbbbbb</color>
+    <color name="text_grey_c">#cccccc</color>
+    <color name="text_grey_e">#eeeeee</color>
+    <color name="text_grey_d">#dddddd</color>
+    <color name="text_grey_9">#999999</color>
+    <color name="text_grey_6">#666666</color>
+    <color name="text_grey_3">#333333</color>
+    <color name="top_bar">#ffffff</color>
+    <color name="text_white">#ffffff</color>
+    <color name="text_menu">#a5a7c0</color>
+    <color name="menu_top">#1a1a22</color>
+    <color name="menu_content">#121318</color>
+    <color name="btn_cyan">#41dcd6</color>
+    <color name="dark_cyan">#35cbc7</color>
+    <color name="red">#ff402d</color>
+    <color name="text_green">#9bdd6f</color>
+    <color name="text_blue">#1481f7</color>
+    <color name="text_orange">#ff620b</color>
+    <color name="btn_blue">#86b3ea</color>
+    <color name="map_back_color_1">#82b7d7</color>
+    <color name="map_back_color_2">#e8e8e8</color>
+    <color name="map_back_color_3">#fb87a7</color>
+</resources>
